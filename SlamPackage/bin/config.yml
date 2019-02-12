@@ -1,0 +1,5 @@
+Settings:
+    EnchantmentBookLore:
+        - '%description%'
+        - '&aSuccess Rate %Success_Rate%%'
+        - '&cDestroy Rate %Destroy_Rate%%'

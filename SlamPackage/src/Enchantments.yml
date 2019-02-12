@@ -1,0 +1,340 @@
+Enchantments:
+  Phoenix:
+    Name: "Phoenix"
+    BookColor: "&6"
+    Color: "&6"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Passive  enchantment. An attack that would normally" 
+        - "&7kill you will instead heal you to full HP."
+        - "&7Can only be activated once every couple minutes."
+        
+  Teleblock:
+    Name: "Teleblock"
+    BookColor: "&c"
+    Color: "&c"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Active soul enchant. Your bow is enchanted with enderpearl blocking magic,"
+        - "&7damaged players will be unable to use enderpearls for up to 20 seconds," 
+        - "&7and will lose up to 15 enderpearls from their inventory." 
+        
+  Silence:
+    Name: "Silence"
+    BookColor: "&6"
+    Color: "&6"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Chance to stop activation of your enemys custom enchants." 
+        
+  Lightning:
+    Name: "Lightning"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7A chance to strike lightning where you strike." 
+        
+  Target_Tracking:
+    Name: "Target Tracking"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Automatically /f focus any target you hit." 
+        
+  Healing:
+    Name: "Healing"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Heals friendly players hit with arrow shot by this bow."
+        - "&7Also has a chance to increase durability of armor and give absorption/health boost." 
+        
+  Death_God:
+    Name: "Death God"
+    BookColor: "&6"
+    Color: "&6"
+    Enabled: true
+    Info:
+      Description:
+       - "&7Attacks that bring your HP to (level+4)"
+       - "&7hearts or lower have a chance to heal you for"
+       - "&7(level+5) hearts instead."
+       - ""
+        
+  Aquatic:
+    Name: "Aquatic"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Gives permanent water breathing." 
+        
+  Glowing:
+    Name: "Glowing"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Gives permanent night vision." 
+        
+  Master_Inquisitive:
+    Name: "Master Inquisitive"
+    BookColor: "&1"
+    Color: "&1"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Massively increases EXP drops from mobs. Requires Inquisitive IV enchant on item to apply."
+        - "&7Cannot be black-scrolled." 
+        
+  Divine_Immolation:
+    Name: "Divine Immolation"
+    BookColor: "&c"
+    Color: "&c"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Active soul enchant. Your weapons are imbued with divine fire,"
+        - "&7turning all your physical attacks into Area of Effect spells."
+        - "&7and igniting divine fire upon all nearby enemies." 
+        
+  Double_Strike:
+    Name: "Double Strike"
+    BookColor: "&6"
+    Color: "&6"
+    Enabled: true
+    Info:
+      Description:
+        - "&7A chance to attack twice in one swing. All your enchantments"
+        - "&7can re-proc on this second attack, and it occurs instantly."
+        
+  Life_Steal:
+    Name: "Life Steal"
+    BookColor: "&6"
+    Color: "&6"
+    Enabled: true
+    Info:
+      Description:
+        - "&7A chance to regain health when attacking." 
+      
+        
+  Inversion:
+    Name: "Inversion"
+    BookColor: "&6"
+    Color: "&6"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Damage dealt to you has a % chance to be blocked and heal you for 1-3 HP instead." 
+       
+        
+  Headless:
+    Name: "Headless"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Victims have a chance of dropping their head on death." 
+        
+  Insomnia:
+    Name: "Insomnia"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Gives slowness, slow swinging and confusion." 
+        
+  Thundering_Blow:
+    Name: "Thundering Blow"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Can cause smite effect on your enemy." 
+  Epicness:
+    Name: "Epicness"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Gives particles and sound effects." 
+        
+  Godly_Overload:
+    Name: "Godly Overload"
+    BookColor: "&1"
+    Color: "&1"
+    Enabled: true
+    Info:
+      Description:
+        - "&7A very large permanent increase in hearts."
+        - "&7Requires Overload III enchant on item to apply. Cannot be black-scrolled."
+        
+  Planetary_Deathbringer:
+    Name: "Planetary Deathbringer"
+    BookColor: "&1"
+    Color: "&1"
+    Enabled: true
+    Info:
+      Description:
+        - "&7An increased chance to deal 2.5x damage."
+        - "&7Requires Deathbringer III enchant on item to apply. Cannot be black-scrolled." 
+        
+  Divine_Enlightened:
+    Name: "Divine Enlightened"
+    BookColor: "&1"
+    Color: "&1"
+    Enabled: true
+    Info:
+      Description:
+        - "&7High chance of healing lots of HP while taking damage. Requires Enlighted III enchant on item to apply. Cannot be black-scrolled." 
+        
+  Immortal:
+    Name: "Immortal"
+    BookColor: "&c"
+    Color: "&c"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Passive soul enchant. Prevents your armor from taking durability damage in exchange for souls." 
+        
+  Natures_Wrath:
+    Name: "Natures Wrath"
+    BookColor: "&c"
+    Color: "&c"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Passive Soul Enchantment. Temporarily"
+        - "&7freeze all enemies in a massive area around you,"
+        - "&7pushing them back and dealing massive nature damage."
+        
+  Paradox:
+    Name: "Paradox"
+    BookColor: "&c"
+    Color: "&c"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Passive soul enchantment. Heals all nearby allies"
+        - "&7in a massive area around you for a portion of all damage dealt to you" 
+        
+        
+  Enlightened:
+    Name: "Enlightened"
+    BookColor: "&6"
+    Color: "&6"
+    Enabled: true
+    Info:
+      Description:
+       - "&7Can heal hearts while taking damage."
+        
+  Soul_Trap:
+    Name: "Soul Trap"
+    BookColor: "&c"
+    Color: "&c"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Active soul enchant. Your axe is imbued with sealing magic,"
+        - "&7and has a chance to disable/negate"
+        - "&7all soul enchantments of  your enemies on hit for (level x 4) seconds." 
+        
+  Barbarian:
+    Name: "Barbarian"
+    BookColor: "&6"
+    Color: "&6"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Multiplies damage against players who are wielding an AXE at the time they are hit." 
+        
+  Confusion:
+    Name: "Confusion"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7A chance to deal nausea to your victim." 
+        
+  Decapitation:
+    Name: "Decapitation"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Victims have a chance of dropping their head on death."
+        
+  Obliterate:
+    Name: "Obliterate"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Extreme knockback." 
+        
+  Auto_Smelt:
+    Name: "Auto Smelt"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Ores are automatically smelted when mined." 
+        - " "
+        
+  Experience:
+    Name: "Experience"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Gives more exp when mining blocks."
+  Oxygenate:
+    Name: "Oxygenate"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Refills oxygen levels when breaking blocks under water."
+        - " "
+        
+  Haste:
+    Name: "Haste"
+    BookColor: "&7"
+    Color: "&7"
+    Enabled: true
+    Info:
+      Description:
+        - "&7Allows you to swing your tools faster."
+      
+  Blood_Lust:
+    Name: "Blood Lust"
+    BookColor: "&6"
+    Color: "&6"
+    Enabled: true
+    Info:
+      Description:
+        - "&7A chance to heal you whenever an enemy player"
+        - "within 7x7 blocks is damaged by the Bleed enchantment." 
+       
+      
